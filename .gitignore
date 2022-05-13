@@ -1,0 +1,12 @@
+*.xlsx
+.vscode
+*.spec
+build
+dist
+teste
+venv/
+HEAD
+config
+description
+hooks/
+info/
