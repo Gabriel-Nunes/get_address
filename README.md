@@ -28,4 +28,4 @@ This code fetch addresses from a list of coordinates (excel file).
   
   # Compiled version
   
-  If you prefer you can use the compiled version available at the beside menu.
+  If you prefer you can use the compiled version available at https://github.com/Gabriel-Nunes/get_address/releases/tag/releases.
