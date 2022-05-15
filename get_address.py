@@ -1,5 +1,4 @@
 
-from unicodedata import name
 import pandas as pd
 from geopy.geocoders import Nominatim
 import os
