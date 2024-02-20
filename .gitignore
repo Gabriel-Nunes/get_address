@@ -10,3 +10,4 @@ config
 description
 hooks/
 info/
+*.ipynb
